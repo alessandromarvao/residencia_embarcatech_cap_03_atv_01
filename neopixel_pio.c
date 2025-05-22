@@ -45,7 +45,7 @@ const uint matrix[5][5][3] = {
 bool alarm = false;
 
 // Definição de pixel GRB
-		tight_loop_contents();
+		
 struct pixel_t
 {
 	uint8_t G, R, B; // Três valores de 8-bits compõem um pixel.
